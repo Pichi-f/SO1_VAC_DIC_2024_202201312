@@ -1,0 +1,32 @@
+services:
+  mysql:
+    image: mysql:latest
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: grafana_db
+      MYSQL_USER: grafana_user
+      MYSQL_PASSWORD: grafana_password
+    ports:
+      - "3306:3306"
+    volumes:
+    - mysql-data:/var/lib/mysql
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    restart: always
+    ports:
+      - "3001:3000"
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: admin
+      GF_SECURITY_ADMIN_USER: admin
+    volumes:
+      - grafana-data:/var/lib/grafana
+    depends_on:
+      - mysql
+
+volumes:
+  mysql-data:
+  grafana-data:
