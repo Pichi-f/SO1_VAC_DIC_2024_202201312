@@ -27,6 +27,25 @@ services:
     depends_on:
       - mysql
 
+  backend:
+    image: apiNode
+    container_name: api
+    depends_on:
+      - mysql
+    links:
+      - mysql
+    environment:
+      DB_USER: grafana_user
+      DB_PASSWORD: grafana_password
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_NAME: grafana_db
+    privileged: true
+    pid: host
+    restart: always
+    ports:
+      - 4000:4000
+
 volumes:
   mysql-data:
   grafana-data:
