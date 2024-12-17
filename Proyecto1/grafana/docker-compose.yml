@@ -28,7 +28,7 @@ services:
       - mysql
 
   backend:
-    image: apiNode
+    image: pichif/api:latest
     container_name: api
     depends_on:
       - mysql

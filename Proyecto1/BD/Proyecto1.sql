@@ -20,7 +20,8 @@ CREATE TABLE IF NOT EXISTS grafana_db.PROCESOS (
     nombre VARCHAR(255),
     usuario VARCHAR(255),
     estado VARCHAR(255),
-    ram_usada VARCHAR(255)
+    ram_usada VARCHAR(255),
+    pc INT
 );
 
 SELECT * FROM GRAFANA_DB.RAM;

@@ -25,18 +25,41 @@ app.get('/', (req, res) => {
 });
 
 app.post('/cpu', async (req, res) => {
-    const {percentage_used, pc} = req.body;
+    let ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+    if (ipAddress.substr(0, 7) == "::ffff:") {
+        ipAddress = ipAddress.substr(7)
+    }
+    const {percentage_used, tasks} = req.body;
     const query = 'INSERT INTO CPU(usado, disponible, tiempo, pc) VALUES (?, ?, CURTIME(), ?);';
-    await connection.query(query, [percentage_used, 100 - percentage_used, pc]);
-    console.log(req.body);
+    await connection.query(query, [percentage_used, 100 - percentage_used, ipAddress]);
+    var campos = "";
+    var valores = [];
+    tasks.forEach(task => {
+        const {pid, name, user, state, ram} = task;
+        campos +=(campos!==""?",":"")+ "(?, ?, ?, ?, ?, ?)";
+        valores.push(pid, name, user, state, ram, ipAddress);
+    });
+    const query2 = `INSERT INTO grafana_db.PROCESOS (pid, nombre, usuario, estado, ram_usada, pc)
+VALUES
+    ${campos}
+ON DUPLICATE KEY UPDATE
+    nombre = VALUES(nombre),
+    usuario = VALUES(usuario),
+    estado = VALUES(estado),
+    ram_usada = VALUES(ram_usada), 
+    pc = VALUES(pc);`;
+    await connection.query(query2, valores);
     res.send('¡CPU recibida!');
 });
 
 app.post('/ram', async (req, res) => {
-    const {percentage_used, pc} = req.body;
+    let ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+    if (ipAddress.substr(0, 7) == "::ffff:") {
+        ipAddress = ipAddress.substr(7)
+    }
+    const {percentage_used} = req.body;
     const query = 'INSERT INTO RAM(usado, disponible, tiempo, pc) VALUES (?, ?, CURTIME(), ?);';
-    await connection.query(query, [percentage_used, 100 - percentage_used, pc]);
-    console.log(req.body);
+    await connection.query(query, [percentage_used, 100 - percentage_used, ipAddress]);
     res.send('RAM recibida!');
 });
 
