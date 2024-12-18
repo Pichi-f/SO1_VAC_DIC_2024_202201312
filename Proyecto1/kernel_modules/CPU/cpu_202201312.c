@@ -29,8 +29,8 @@
 // Para usar las funciones de copia de datos entre espacio de usuario y espacio de kernel
 
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("Ejemplo de creacion de modulo en Linux, Laboratorio de Sistemas Operativos 1 - Clase 4");
-MODULE_AUTHOR("Allen Roman");
+MODULE_DESCRIPTION("Modulo en Linux");
+MODULE_AUTHOR("Luis Manuel Pichiyá Choc");
 MODULE_VERSION("1.0");
 
 //Modulo que lee el archivo cpu, el cual contiene la informacion de la CPU

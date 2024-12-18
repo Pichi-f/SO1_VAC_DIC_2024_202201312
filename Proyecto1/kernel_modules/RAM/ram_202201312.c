@@ -16,19 +16,9 @@
 // Para usar la estructura sysinfo
 
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("Ejemplo de creacion de modulo en Linux, Laboratorio de Sistemas Operativos 1 - Clase 4");
-MODULE_AUTHOR("Allen Roman");
+MODULE_DESCRIPTION("Laboratorio de Sistemas Operativos 1");
+MODULE_AUTHOR("Luis Manuel Pichiyá Choc");
 MODULE_VERSION("1.0");
-
-/*
-Constuir un json con la informacion de la memoria RAM
-{
-    "total_ram": 0,
-    "free_ram": 0,
-    "used_ram": 0
-    "percentage_used": 0
-}
-*/
 
 static int escribir_archivo(struct seq_file * archivo, void *v) {
     struct sysinfo info;
