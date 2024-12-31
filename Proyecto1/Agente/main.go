@@ -87,7 +87,7 @@ func postScheduledData() {
 			}
 
 			jsonValue, _ := json.Marshal(cpu_info)
-			http.Post("http://localhost:4000/cpu", "application/json", bytes.NewBuffer(jsonValue))
+			http.Post("http://35.238.111.219:4000/cpu", "application/json", bytes.NewBuffer(jsonValue))
 			// Simulación RAM
 			cmdRam := exec.Command("sh", "-c", "cat /proc/ram_202201312")
 			outRam, errRam := cmdRam.CombinedOutput()
@@ -99,7 +99,7 @@ func postScheduledData() {
 			}
 
 			jsonValue, _ = json.Marshal(ram_info)
-			http.Post("http://localhost:4000/ram", "application/json", bytes.NewBuffer(jsonValue))
+			http.Post("http://35.238.111.219:4000/ram", "application/json", bytes.NewBuffer(jsonValue))
 		}
 	}
 }
@@ -122,6 +122,6 @@ func main() {
 	origins := handlers.AllowedOrigins([]string{"*"})
 
 	// Iniciar servidor
-	fmt.Println("Server started at port 5200")
-	log.Fatal(http.ListenAndServe(":5200", handlers.CORS(headers, methods, origins)(router)))
+	fmt.Println("Server started at port 8080")
+	log.Fatal(http.ListenAndServe(":8080", handlers.CORS(headers, methods, origins)(router)))
 }

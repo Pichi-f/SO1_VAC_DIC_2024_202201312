@@ -1,0 +1,6002 @@
+[
+    {
+        "curso": "EDD",
+        "facultad": "Veterinaria",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Matematicas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Derecho",
+        "carrera": "Odontologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Quimica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Veterinaria",
+        "carrera": "Quimica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Economia",
+        "carrera": "Electronica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Arquitectura",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Electronica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Economia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Derecho",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ingenieria",
+        "carrera": "Arquitectura",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ingenieria",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ciencias",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Farmacia",
+        "carrera": "Farmacia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Odontologia",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Humanidades",
+        "carrera": "Civil",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Humanidades",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Farmacia",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Arquitectura",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Humanidades",
+        "carrera": "Matematicas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Veterinaria",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Humanidades",
+        "carrera": "Farmacia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Farmacia",
+        "carrera": "Electronica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Odontologia",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ingenieria",
+        "carrera": "Farmacia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Civil",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Farmacia",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Economia",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Economia",
+        "carrera": "Electrica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Derecho",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ingenieria",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Derecho",
+        "carrera": "Matematicas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Odontologia",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ciencias",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ciencias",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Economia",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Veterinaria",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Odontologia",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Medicina",
+        "carrera": "Estadistica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Farmacia",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Veterinaria",
+        "carrera": "Electrica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Arquitectura",
+        "carrera": "Quimica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Humanidades",
+        "carrera": "Quimica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Farmacia",
+        "carrera": "Quimica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Medicina",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Economia",
+        "carrera": "Estadistica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Mecanica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Farmacia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Humanidades",
+        "carrera": "Quimica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ingenieria",
+        "carrera": "Civil",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Derecho",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Medicina",
+        "carrera": "Arquitectura",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ciencias",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Veterinaria",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Economia",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Farmacia",
+        "carrera": "Estadistica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Economia",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Industrial",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Humanidades",
+        "carrera": "Matematicas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Farmacia",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Biologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Derecho",
+        "carrera": "Economia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Veterinaria",
+        "carrera": "Electronica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Humanidades",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ciencias",
+        "carrera": "Quimica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Derecho",
+        "carrera": "Matematicas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Economia",
+        "carrera": "Electronica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Veterinaria",
+        "carrera": "Farmacia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Economia",
+        "carrera": "Industrial",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Arquitectura",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ingenieria",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Medicina",
+        "carrera": "Fisica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Matematicas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Economia",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Odontologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Veterinaria",
+        "carrera": "Industrial",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Veterinaria",
+        "carrera": "Matematicas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Odontologia",
+        "carrera": "Veterinaria",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Derecho",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Economia",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Economia",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Arquitectura",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Arquitectura",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ingenieria",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Humanidades",
+        "carrera": "Industrial",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Humanidades",
+        "carrera": "Medicina",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Derecho",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Humanidades",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Farmacia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Veterinaria",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Estadistica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Farmacia",
+        "carrera": "Estadistica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Odontologia",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ingenieria",
+        "carrera": "Civil",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ciencias",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Sistemas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Humanidades",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Medicina",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Medicina",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Arquitectura",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ingenieria",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Derecho",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ingenieria",
+        "carrera": "Civil",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Medicina",
+        "carrera": "Matematicas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Arquitectura",
+        "carrera": "Estadistica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Mecanica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Arquitectura",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ingenieria",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Electrica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Veterinaria",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Derecho",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Derecho",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Industrial",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ciencias",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ciencias",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ingenieria",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Humanidades",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Veterinaria",
+        "carrera": "Odontologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Odontologia",
+        "carrera": "Sistemas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Civil",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Economia",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Derecho",
+        "carrera": "Economia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Medicina",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Veterinaria",
+        "carrera": "Mecanica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ingenieria",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Derecho",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ciencias",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Matematicas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Odontologia",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Humanidades",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Electrica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Humanidades",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Industrial",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Economia",
+        "carrera": "Farmacia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Farmacia",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Sistemas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Humanidades",
+        "carrera": "Veterinaria",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Medicina",
+        "carrera": "Estadistica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Farmacia",
+        "carrera": "Derecho",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Veterinaria",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Odontologia",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ciencias",
+        "carrera": "Mecanica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Veterinaria",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Estadistica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Humanidades",
+        "carrera": "Arquitectura",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Odontologia",
+        "carrera": "Matematicas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Humanidades",
+        "carrera": "Odontologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Derecho",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Estadistica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Sistemas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Economia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Farmacia",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Economia",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Economia",
+        "carrera": "Civil",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Economia",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Economia",
+        "carrera": "Matematicas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ingenieria",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Economia",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ingenieria",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Humanidades",
+        "carrera": "Medicina",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Medicina",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Odontologia",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Derecho",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Derecho",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Humanidades",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Humanidades",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Matematicas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Humanidades",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ingenieria",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ciencias",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Veterinaria",
+        "carrera": "Derecho",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ingenieria",
+        "carrera": "Arquitectura",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ingenieria",
+        "carrera": "Electrica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Farmacia",
+        "carrera": "Quimica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Derecho",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Veterinaria",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ingenieria",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Veterinaria",
+        "carrera": "Sistemas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Arquitectura",
+        "carrera": "Industrial",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Economia",
+        "carrera": "Estadistica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Farmacia",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Farmacia",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ciencias",
+        "carrera": "Civil",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Fisica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Farmacia",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Odontologia",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ingenieria",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Estadistica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Economia",
+        "carrera": "Mecanica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Arquitectura",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Arquitectura",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Derecho",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ciencias",
+        "carrera": "Medicina",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Medicina",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ciencias",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Arquitectura",
+        "carrera": "Civil",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Odontologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Humanidades",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Farmacia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Biologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Electronica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ingenieria",
+        "carrera": "Economia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Humanidades",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ciencias",
+        "carrera": "Estadistica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Medicina",
+        "carrera": "Sistemas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Medicina",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Medicina",
+        "carrera": "Estadistica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Farmacia",
+        "carrera": "Arquitectura",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Arquitectura",
+        "carrera": "Farmacia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Economia",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Estadistica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Odontologia",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Veterinaria",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Economia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Odontologia",
+        "carrera": "Civil",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Industrial",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Derecho",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Humanidades",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Veterinaria",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Economia",
+        "carrera": "Electrica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Economia",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Arquitectura",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Arquitectura",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Odontologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Fisica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Matematicas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Humanidades",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Farmacia",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Matematicas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Medicina",
+        "carrera": "Estadistica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ingenieria",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ciencias",
+        "carrera": "Electronica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Matematicas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ciencias",
+        "carrera": "Farmacia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ciencias",
+        "carrera": "Veterinaria",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Medicina",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Derecho",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Humanidades",
+        "carrera": "Electrica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Odontologia",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Veterinaria",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Estadistica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Veterinaria",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Farmacia",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Arquitectura",
+        "carrera": "Matematicas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Odontologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Quimica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Odontologia",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ciencias",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Farmacia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Medicina",
+        "carrera": "Industrial",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Derecho",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Medicina",
+        "carrera": "Biologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Veterinaria",
+        "carrera": "Farmacia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "PETEN"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Farmacia",
+        "carrera": "Mecanica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Veterinaria",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Fisica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Veterinaria",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Fisica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Arquitectura",
+        "carrera": "Electronica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Quimica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Medicina",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ingenieria",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Odontologia",
+        "carrera": "Electrica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Economia",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Electronica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Humanidades",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Derecho",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Veterinaria",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Humanidades",
+        "carrera": "Mecanica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Industrial",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Fisica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Veterinaria",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Industrial",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Farmacia",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Derecho",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Veterinaria",
+        "carrera": "Industrial",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Humanidades",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Odontologia",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Farmacia",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Estadistica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Quimica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Arquitectura",
+        "carrera": "Industrial",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Electrica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Veterinaria",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Arquitectura",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Humanidades",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Veterinaria",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "NORTE"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Veterinaria",
+        "carrera": "Odontologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Derecho",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ciencias",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Mecanica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Humanidades",
+        "carrera": "Mecanica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ingenieria",
+        "carrera": "Quimica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Veterinaria",
+        "carrera": "Derecho",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Farmacia",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Economia",
+        "carrera": "Biologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Odontologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Economia",
+        "carrera": "Estadistica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Derecho",
+        "carrera": "Arquitectura",
+        "region": "NORTE"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Odontologia",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Biologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Estadistica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Medicina",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Farmacia",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Matematicas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Derecho",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Industrial",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Derecho",
+        "carrera": "Civil",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Farmacia",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Medicina",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Sistemas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Industrial",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Arquitectura",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ingenieria",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Odontologia",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Odontologia",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ciencias",
+        "carrera": "Electronica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Derecho",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ingenieria",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Economia",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Industrial",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Odontologia",
+        "carrera": "Matematicas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Derecho",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Estadistica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Electronica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Humanidades",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Odontologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Arquitectura",
+        "carrera": "Estadistica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Humanidades",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Veterinaria",
+        "carrera": "Derecho",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Humanidades",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Humanidades",
+        "carrera": "Industrial",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Medicina",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Medicina",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Civil",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Farmacia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Matematicas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Odontologia",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Mecanica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Fisica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Farmacia",
+        "carrera": "Fisica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Arquitectura",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Humanidades",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ciencias",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Medicina",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Farmacia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Industrial",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Arquitectura",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ingenieria",
+        "carrera": "Electrica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ciencias",
+        "carrera": "Arquitectura",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Farmacia",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ingenieria",
+        "carrera": "Civil",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Electrica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Veterinaria",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Derecho",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Derecho",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ciencias",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Estadistica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Economia",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Farmacia",
+        "carrera": "Odontologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Economia",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Humanidades",
+        "carrera": "Estadistica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ingenieria",
+        "carrera": "Veterinaria",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Electronica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Odontologia",
+        "carrera": "Farmacia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Odontologia",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Farmacia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Veterinaria",
+        "carrera": "Electronica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Odontologia",
+        "carrera": "Matematicas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Farmacia",
+        "carrera": "Farmacia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ingenieria",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Electronica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Veterinaria",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Matematicas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Farmacia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Ciencias",
+        "carrera": "Odontologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ciencias",
+        "carrera": "Economia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Industrial",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Arquitectura",
+        "carrera": "Economia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Humanidades",
+        "carrera": "Economia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Odontologia",
+        "carrera": "Derecho",
+        "region": "NORTE"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Veterinaria",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Derecho",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Veterinaria",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Biologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Veterinaria",
+        "carrera": "Arquitectura",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Farmacia",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Farmacia",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Medicina",
+        "carrera": "Electronica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Matematicas",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Ciencias",
+        "carrera": "Odontologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Derecho",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Derecho",
+        "carrera": "Mecanica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Economia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Estadistica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Arquitectura",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Farmacia",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Electronica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Farmacia",
+        "carrera": "Quimica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ciencias",
+        "carrera": "Derecho",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Derecho",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Medicina",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Arquitectura",
+        "carrera": "Quimica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Veterinaria",
+        "carrera": "Arquitectura",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Estadistica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Electrica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Medicina",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Veterinaria",
+        "carrera": "Arquitectura",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Farmacia",
+        "carrera": "Industrial",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ingenieria",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Estadistica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Arquitectura",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Arquitectura",
+        "carrera": "Estadistica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ciencias",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Arquitectura",
+        "carrera": "Biologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Veterinaria",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Farmacia",
+        "carrera": "Estadistica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Odontologia",
+        "carrera": "Mecanica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Humanidades",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Economia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Veterinaria",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Derecho",
+        "carrera": "Matematicas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Odontologia",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Veterinaria",
+        "carrera": "Veterinaria",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Veterinaria",
+        "carrera": "Arquitectura",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Ingenieria",
+        "carrera": "Medicina",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Industrial",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Arquitectura",
+        "carrera": "Odontologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Farmacia",
+        "carrera": "Odontologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Medicina",
+        "carrera": "Electrica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Derecho",
+        "carrera": "Medicina",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Ingenieria",
+        "carrera": "Electronica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Economia",
+        "carrera": "Matematicas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Matematicas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Odontologia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Derecho",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Arquitectura",
+        "carrera": "Sistemas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Medicina",
+        "carrera": "Mecanica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Humanidades",
+        "carrera": "Farmacia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Electronica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Medicina",
+        "carrera": "Quimica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Arquitectura",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Arquitectura",
+        "carrera": "Derecho",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Ingenieria",
+        "carrera": "Veterinaria",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Farmacia",
+        "carrera": "Farmacia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Economia",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Humanidades",
+        "carrera": "Civil",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Farmacia",
+        "carrera": "Veterinaria",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Farmacia",
+        "carrera": "Electrica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Odontologia",
+        "carrera": "Medicina",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Veterinaria",
+        "carrera": "Matematicas",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Derecho",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Veterinaria",
+        "carrera": "Industrial",
+        "region": "PETEN"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Derecho",
+        "carrera": "Farmacia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Derecho",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Humanidades",
+        "carrera": "Biologia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Electronica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Economia",
+        "carrera": "Fisica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Odontologia",
+        "carrera": "Derecho",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Humanidades",
+        "carrera": "Electronica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Arquitectura",
+        "carrera": "Farmacia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Ciencias",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Medicina",
+        "carrera": "Farmacia",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Derecho",
+        "carrera": "Industrial",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Odontologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Farmacia",
+        "carrera": "Mecanica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Arquitectura",
+        "carrera": "Electrica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC2",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Industrial",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Odontologia",
+        "carrera": "Veterinaria",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Economia",
+        "carrera": "Biologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Economia",
+        "carrera": "Economia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Economia",
+        "carrera": "Sistemas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Arquitectura",
+        "carrera": "Quimica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Farmacia",
+        "carrera": "Veterinaria",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Biologia",
+        "region": "NORTE"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Economia",
+        "carrera": "Farmacia",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Farmacia",
+        "carrera": "Civil",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Farmacia",
+        "carrera": "Veterinaria",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Odontologia",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Odontologia",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Derecho",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Humanidades",
+        "carrera": "Veterinaria",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Odontologia",
+        "carrera": "Derecho",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Ciencias",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Economia",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Odontologia",
+        "carrera": "Civil",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Economia",
+        "carrera": "Quimica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ciencias",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Industrial",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Electrica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ciencias",
+        "carrera": "Electrica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Ingenieria",
+        "carrera": "Odontologia",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ciencias",
+        "carrera": "Quimica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Ingenieria",
+        "carrera": "Matematicas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Economia",
+        "carrera": "Sistemas",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Odontologia",
+        "carrera": "Fisica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Veterinaria",
+        "carrera": "Arquitectura",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Humanidades",
+        "carrera": "Sistemas",
+        "region": "NORTE"
+    },
+    {
+        "curso": "BD1",
+        "facultad": "Medicina",
+        "carrera": "Medicina",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Economia",
+        "carrera": "Veterinaria",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Medicina",
+        "carrera": "Civil",
+        "region": "PETEN"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Arquitectura",
+        "carrera": "Fisica",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Arquitectura",
+        "carrera": "Arquitectura",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Economia",
+        "carrera": "Medicina",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IA1",
+        "facultad": "Economia",
+        "carrera": "Economia",
+        "region": "PETEN"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Humanidades",
+        "carrera": "Fisica",
+        "region": "PETEN"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Derecho",
+        "carrera": "Matematicas",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Ciencias",
+        "carrera": "Quimica",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Matematicas",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Odontologia",
+        "carrera": "Biologia",
+        "region": "NORORIENTAL"
+    },
+    {
+        "curso": "LFP",
+        "facultad": "Medicina",
+        "carrera": "Veterinaria",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "MIA",
+        "facultad": "Veterinaria",
+        "carrera": "Medicina",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Economia",
+        "carrera": "Odontologia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "SO1",
+        "facultad": "Medicina",
+        "carrera": "Arquitectura",
+        "region": "NORTE"
+    },
+    {
+        "curso": "EDD",
+        "facultad": "Ingenieria",
+        "carrera": "Economia",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Ciencias",
+        "carrera": "Sistemas",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Humanidades",
+        "carrera": "Veterinaria",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Economia",
+        "carrera": "Arquitectura",
+        "region": "NOROCCIDENTAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Derecho",
+        "carrera": "Veterinaria",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD1",
+        "facultad": "Derecho",
+        "carrera": "Estadistica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Veterinaria",
+        "carrera": "Economia",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "BD2",
+        "facultad": "Ciencias",
+        "carrera": "Mecanica",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "IO1",
+        "facultad": "Ingenieria",
+        "carrera": "Electronica",
+        "region": "METROPOLITANA"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Derecho",
+        "carrera": "Matematicas",
+        "region": "CENTRAL"
+    },
+    {
+        "curso": "AYD2",
+        "facultad": "Farmacia",
+        "carrera": "Electronica",
+        "region": "SUROCCIDENTAL"
+    },
+    {
+        "curso": "SA",
+        "facultad": "Odontologia",
+        "carrera": "Electrica",
+        "region": "NORTE"
+    },
+    {
+        "curso": "IPC1",
+        "facultad": "Medicina",
+        "carrera": "Fisica",
+        "region": "SURORIENTAL"
+    },
+    {
+        "curso": "IO2",
+        "facultad": "Economia",
+        "carrera": "Civil",
+        "region": "NORTE"
+    },
+    {
+        "curso": "SO2",
+        "facultad": "Ingenieria",
+        "carrera": "Sistemas",
+        "region": "PETEN"
+    }
+]

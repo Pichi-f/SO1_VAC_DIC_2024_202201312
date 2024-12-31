@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS grafana_db.RAM (
     usado FLOAT,
     disponible FLOAT,
     tiempo DATETIME,
-    pc INT
+    pc VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS grafana_db.CPU (
@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS grafana_db.CPU (
     usado FLOAT,
     disponible FLOAT,
     tiempo DATETIME,
-    pc INT
+    pc VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS grafana_db.PROCESOS (
@@ -21,11 +21,15 @@ CREATE TABLE IF NOT EXISTS grafana_db.PROCESOS (
     usuario VARCHAR(255),
     estado VARCHAR(255),
     ram_usada VARCHAR(255),
-    pc INT
+    pc VARCHAR(255)
 );
 
-SELECT * FROM GRAFANA_DB.RAM;
-SELECT * FROM GRAFANA_DB.CPU;
+SELECT * FROM grafana_db.RAM;
+SELECT * FROM grafana_db.CPU;
 
-TRUNCATE TABLE GRAFANA_DB.RAM;
-TRUNCATE TABLE GRAFANA_DB.CPU;
+SELECT * FROM grafana_db.PROCESOS;
+
+TRUNCATE TABLE grafana_db.RAM;
+TRUNCATE TABLE grafana_db.CPU;
+
+TRUNCATE TABLE grafana_db.PROCESOS;

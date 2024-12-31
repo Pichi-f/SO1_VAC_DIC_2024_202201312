@@ -1,0 +1,41 @@
+#Script para configurar instancias 
+sudo apt update
+sudo apt install git
+sudo apt update
+sudo apt install make
+sudo apt update
+sudo apt install gcc build-essential -y
+
+#Clonar el repositorio
+git clone https://github.com/Pichi-f/SO1_VAC_DIC_2024_202201312.git
+
+#Instalar docker 
+# Add Docker's official GPG key:
+sudo apt-get update
+sudo apt-get install ca-certificates curl
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
+
+# Add the repository to Apt sources:
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
+  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
+
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+
+#Agregar los modulos de kernel
+cd SO1_VAC_DIC_2024_202201312/Proyecto1/kernel_modules/CPU
+make all
+sudo insmod cpu_202201312.ko
+cd ..
+cd RAM
+make all
+sudo insmod ram_202201312.ko
+cd ..
+cd ..
+cd Agente
+sudo docker run -p 8080:8080 -d pichif/agente:latest
+

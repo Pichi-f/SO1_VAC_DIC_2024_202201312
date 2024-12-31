@@ -19,4 +19,4 @@ COPY --from=build /app/my-app ./
 
 ENTRYPOINT ["./my-app"]
 
-EXPOSE 5200
+EXPOSE 8080
