@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option go_package = "./;confproto";
+
+package confproto;
+
+service getIngo {
+    rpc returnInfo (requestId) returns (replyInfo) {}
+}
+
+message requestId {
+    string curso = 1;
+    string facultad = 2;
+    string carrera = 3;
+    string region = 4;
+}
+
+message replyInfo {
+    string info = 1;
+}
